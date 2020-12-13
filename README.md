@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # flutter_calendar
+1[logo](https://user-images.githubusercontent.com/75843138/102004543-459e3a00-3d44-11eb-8d52-705e07e2067a.png)
