@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # flutter_calendar
-1[logo](https://user-images.githubusercontent.com/75843138/102004543-459e3a00-3d44-11eb-8d52-705e07e2067a.png)
+![logo](https://user-images.githubusercontent.com/75843138/102004543-459e3a00-3d44-11eb-8d52-705e07e2067a.png)
